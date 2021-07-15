@@ -1,3 +1,9 @@
 # Classic Snake Game using Python
- Packages used: turtle, free games and random. <br />
- Functions: change (for directions), inside (boundary), move (segment addition, and termination conditions).
+ Packages used:<br />
+ turtle<br />
+ free games<br />
+ random <br />
+ Functions:<br />
+ change: for directions<br />
+ inside: boundary<br />
+ move: segment addition, and termination conditions.
