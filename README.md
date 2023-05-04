@@ -8,4 +8,4 @@
  * inside: boundary<br />
  * move: segment addition and termination conditions<br/>
  #
- **Resources: [Geeks for Geeks](https://www.geeksforgeeks.org/create-a-snake-game-using-turtle-in-python/) and [YouTube](https://www.youtube.com/watch?v=M_npdRYD4K0)**
+<img src = snake.png width = 1000> 
